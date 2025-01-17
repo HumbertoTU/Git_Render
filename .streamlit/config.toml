@@ -4,3 +4,4 @@ port = 10000
 
 [browser]
 serverAddress = "localhost"
+serverPort = 10000
